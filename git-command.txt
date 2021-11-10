@@ -1,1 +1,9 @@
 git init // initial and master branch
+
+git status // show the status
+
+git add . // add all files to staging area
+
+git add <files/folder> // add specific files to staging area
+
+git commit // Changes to the git repo
